@@ -8,10 +8,10 @@ Alunos: Caihan Garcia, Pedro Passero Veit e Gustavo Silveira Goulart
   1. Questão de pesquisa 
 Como fatores socioeconômicos influenciam o desempenho dos estudantes brasileiro no ENEM? 
 Buscaremos responder essa pergunta com dados através de análises de:
-- Relação entre renda familiar e desempenho
-- Influência do tipo de escola
-- Escolaridade dos pais e desempenho
-- Relação entre condições socioeconômicas e resultados educacionais
+  - Relação entre renda familiar e desempenho
+  - Influência do tipo de escola
+  - Escolaridade dos pais e desempenho
+  - Relação entre condições socioeconômicas e resultados educacionais
 
   2. Justificativa da relevância 
 O ENEM é hoje a principal porta de entrada para o ensino superior no Brasil, sendo utilizado tanto por universidades públicas quanto por programas como o SISU, o ProUni e o FIES. Por isso, o desempenho no exame tem impacto direto sobre as oportunidades de acesso à educação. Estudar como fatores socioeconômicos influenciam esse desempenho é relevante porque permite identificar até que ponto as condições de origem do estudante ajudam a explicar as diferenças nos resultados. Além disso, o uso dos microdados do ENEM, que são públicos e abrangem milhões de participantes, oferece uma base concreta para analisar essas questões a partir de dados reais, contribuindo para um debate mais informado sobre a educação no Brasil. 
