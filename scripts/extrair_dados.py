@@ -9,7 +9,8 @@ SAIDA = os.path.join("..", "dados-processados")
 #colunas para fazer as análises
 COLUNAS = [
     'NU_INSCRICAO', 'TP_FAIXA_ETARIA', 'TP_SEXO', 'TP_COR_RACA',
-    'TP_ESCOLA', 'TP_DEPENDENCIA_ADM_ESC', 'SG_UF_PROVA',
+    'TP_ESCOLA', 'TP_DEPENDENCIA_ADM_ESC', 'SG_UF_PROVA', 
+    'CO_MUNICIPIO_PROVA', 'NO_MUNICIPIO_PROVA',
     'TP_PRESENCA_CN', 'TP_PRESENCA_CH', 'TP_PRESENCA_LC', 'TP_PRESENCA_MT',
     'NU_NOTA_CN', 'NU_NOTA_CH', 'NU_NOTA_LC', 'NU_NOTA_MT', 'NU_NOTA_REDACAO',
     'Q001', 'Q002', 'Q006'
